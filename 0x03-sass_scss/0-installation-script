@@ -1,0 +1,9 @@
+1. Navigated to the project folder:
+   cd alx-intermediate-frontend
+
+2. Created a new directory:
+   mkdir 0x03-sass_scss
+   cd 0x03-sass_scss
+
+3. Installed SASS using npm:
+   npm install sass -v 3.7.4
